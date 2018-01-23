@@ -1,6 +1,6 @@
 # Snake
 
-Snake game for Linux/Unix terminal. The game requires two players, one plays with the WASD key combination and the other with IJKL. Each player is trying to collect as many asterisks as he can. By collecting asterisks, snake tail is getting bigger, so player can easily surround his enemy. Goal of the game is to eliminate opponent by staying longer on life or surrounding him with tail.
+Snake game for Linux/Unix terminal. The game requires two players, one plays with the WASD key combination and the other with IJKL. Each player is trying to collect as many asterisks as they can. By collecting asterisks, snake's tail is getting bigger, so player can easily surround his enemy. The goal of the game is to eliminate the opponent by staying alive longer or surrounding him with the tail.
 
 ## Images
 
